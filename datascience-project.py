@@ -1,5 +1,5 @@
 # Store the API key as a string - according to PEP8, constants are always named in all upper case
-API_KEY = '4CxnW2Q4p7yiXmc1TQs6'
+API_KEY = ''
 
 START_END = '2017-01-01'
 END_DATE = '=2017-12-31'
